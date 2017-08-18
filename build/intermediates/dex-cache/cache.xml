@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\All_My_Temp_Code_Test\android_proj_test\FaceDetect\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="F:\All_My_Temp_Code_Test\android_proj_test\FaceDetect\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_140798a8772d7e9641ca759ae67ce48646653264.jar" />
+    </item>
+    <item
+        jar="F:\All_My_Temp_Code_Test\android_proj_test\FaceDetect\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="F:\All_My_Temp_Code_Test\android_proj_test\FaceDetect\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_26ff1b9788fd174f141bffa2bc97fcab826ac85f.jar" />
+    </item>
+    <item
+        jar="C:\Program Files\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="F:\All_My_Temp_Code_Test\android_proj_test\FaceDetect\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_4bc2f5f4c52b7856b2e2adeb931a4ded186ea1c6.jar" />
+    </item>
+    <item
+        jar="F:\All_My_Temp_Code_Test\android_proj_test\FaceDetect\app\build\intermediates\exploded-aar\com.isnc.facesdk\superid-sdk\1.6.9\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="a375ad97ef0d28b0f6013c465352bf1e6f644dff">
+        <dex dex="F:\All_My_Temp_Code_Test\android_proj_test\FaceDetect\app\build\intermediates\pre-dexed\debug\com.isnc.facesdk-superid-sdk-1.6.9_63d9803f8711db94f6c7a2ec9969eda7c0aab495.jar" />
+    </item>
+    <item
+        jar="F:\All_My_Temp_Code_Test\android_proj_test\FaceDetect\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="F:\All_My_Temp_Code_Test\android_proj_test\FaceDetect\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_0aae3397b08260b737a0c0bbbb5083d0af21af3b.jar" />
+    </item>
+    <item
+        jar="F:\All_My_Temp_Code_Test\android_proj_test\FaceDetect\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="F:\All_My_Temp_Code_Test\android_proj_test\FaceDetect\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_b4a8555d0ea65d27a546fb3b6af2259e62e49389.jar" />
+    </item>
+    <item
+        jar="F:\All_My_Temp_Code_Test\android_proj_test\FaceDetect\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="F:\All_My_Temp_Code_Test\android_proj_test\FaceDetect\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_88570f529662bcbe06961e572c69ebb4e149a301.jar" />
+    </item>
+    <item
+        jar="F:\All_My_Temp_Code_Test\android_proj_test\FaceDetect\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="F:\All_My_Temp_Code_Test\android_proj_test\FaceDetect\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_272e3bec86949739f750edbca64c0d8446c80e3b.jar" />
+    </item>
+
+</items>
